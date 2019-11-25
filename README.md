@@ -1,4 +1,4 @@
 # Classic Blog Concept
-> An HTML5 concept for a WordPress theme
+> A minimal style WordPress Theme classic blog concept
 
 This project is currently under development.
