@@ -16,7 +16,7 @@ jQuery(function($) {
 
     // Custom Script
     // ==============================================
-    customScript() {
+    customScript: function() {
       // Add your script here
     }
   };
