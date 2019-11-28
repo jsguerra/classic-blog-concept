@@ -1,4 +1,4 @@
-jQuery(function($) {
+(function($) {
 
   'use strict';
 
@@ -23,4 +23,4 @@ jQuery(function($) {
   
   ENHANCEMENTS.init();
 
-}); //jQuery
+})( jQuery ); //jQuery
